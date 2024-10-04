@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment and dependencies
+.env
+venv/
+ENV/
+*.env
+*.venv
+*.egg-info/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Distribution / packaging
+build/
+dist/
+*.egg
+*.wheel
+
+# Python-specific logs
+*.log
+
+# macOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+Desktop.ini
+
+# QR Code PNG files
+*.png
